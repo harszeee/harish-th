@@ -13,7 +13,7 @@ export const CONTACT: ContactInfo = {
   email: "harish.san080@gmail.com",
   phone: "+91 99167 57100",
   address: "Bangalore, India",
-  linkedin: "https://linkedin.com/in/harish-t-h"
+  linkedin: "https://www.linkedin.com/in/harishth3105/"
 };
 
 export const HARISHBACK_STATS: Stat[] = [
