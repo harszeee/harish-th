@@ -1,0 +1,7 @@
+{
+  "name": "Harish T H | Campaign Manager Portfolio",
+  "description": "High-performance, glassmorphism-style portfolio for Harish T H, Campaign Manager at Amazon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
